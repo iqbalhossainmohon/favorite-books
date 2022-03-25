@@ -80,9 +80,8 @@ const Home = () => {
                     <h1 className='text-xl'>Q:Props VS State</h1>
                     <p>A:
                         State: 1.state is updatable 2. state change can be asynchronous 3. state can be modified using this.setState
-
-                        props: 1.Props are read only 2.Props can not modified 3.Props are immutable
                     </p>
+                    <p>props: 1.Props are read only 2.Props can not modified 3.Props are immutable</p>
                 </div>
                 <div>
                     <h1 className='text-xl'>Q:How useState() work</h1>
