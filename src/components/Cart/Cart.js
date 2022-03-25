@@ -1,16 +1,12 @@
 import React from 'react';
 
-const Cart = ({ name, random }) => {
+const Cart = ({ name }) => {
 
 
 
     return (
-        <div className='p-5'>
+        <div className='p-3'>
             <p>{name}</p>
-            <div>
-                <p>{random}</p>
-            </div>
-
         </div>
     );
 };
