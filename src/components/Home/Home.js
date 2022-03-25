@@ -47,15 +47,15 @@ const Home = () => {
             <div>
                 <h1 className='text-5xl font-bold text-center my-4 text-blue-500'>Favorite Books Store</h1>
             </div>
-            <div className='flex flex-row p-8 relative'>
+            <div className='md:flex flex-row p-8 relative'>
                 <div className='basis-3/4'>
-                    <div className='grid grid-cols-3 gap-3'>
+                    <div className='sm:grid-cols-1 grid  md:grid-cols-3 gap-3 '>
                         {
                             books.map(book => <Shop key={book.id} item={book} addedToCart={addedToCart} />)
                         }
                     </div>
                 </div>
-                <div style={{ height: "650px" }} className='basis-1/3 bg-slate-800 text-white sticky top-0'>
+                <div style={{ height: "650px" }} className='md:basis-1/3 bg-slate-800 text-white sticky top-0'>
                     <h2 className='text-xl text-center mt-4'>Order Summary</h2>
                     {
                         cart.length === 0 ? "Empty Cart" : cart.map(item => <Cart key={item.id} name={item.name} />)
