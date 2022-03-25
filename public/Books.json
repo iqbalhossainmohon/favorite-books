@@ -8,79 +8,79 @@
     },
     {
         "id": "2",
-        "name": "cracking the coding interview2",
-        "author": "Gayle Laakmann McDowell",
-        "price": 100,
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg"
+        "name": "The web application hacker's handbook",
+        "author": "Dafydd Stuttard and Marcus Pinto",
+        "price": 170,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71Gtxr2facL.jpg"
     },
     {
         "id": "3",
-        "name": "cracking the coding interview3",
-        "author": "Gayle Laakmann McDowell",
-        "price": 100,
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg"
+        "name": "Node.js in Action",
+        "author": "Mike Cantelon",
+        "price": 150,
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526023884l/40100698._SX318_.jpg"
     },
     {
         "id": "4",
-        "name": "cracking the coding interview4",
-        "author": "Gayle Laakmann McDowell",
-        "price": 100,
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg"
+        "name": "Clean Code",
+        "author": "Robert Cecil Martin",
+        "price": 250,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg"
     },
     {
         "id": "5",
-        "name": "cracking the coding interview5",
-        "author": "Gayle Laakmann McDowell",
-        "price": 100,
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg"
+        "name": "Refactoring",
+        "author": "Kent Beck and Martin Fowler",
+        "price": 220,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41trAWIzKAL._SX401_BO1,204,203,200_.jpg"
     },
     {
         "id": "6",
-        "name": "cracking the coding interview6",
-        "author": "Gayle Laakmann McDowell",
-        "price": 100,
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg"
+        "name": "Code Complete",
+        "author": "Steve McConnell",
+        "price": 180,
+        "image": "https://www.microsoftpressstore.com/ShowCover.aspx?isbn=9780735619678"
     },
     {
         "id": "7",
-        "name": "cracking the coding interview7",
-        "author": "Gayle Laakmann McDowell",
-        "price": 100,
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg"
+        "name": "The Pragmatic Programmer",
+        "author": "Andy Hunt and Dave Thomas",
+        "price": 210,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41HXiIojloL._SX396_BO1,204,203,200_.jpg"
     },
     {
         "id": "8",
-        "name": "cracking the coding interview8",
-        "author": "Gayle Laakmann McDowell",
-        "price": 100,
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg"
+        "name": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen, Charles E. Leiserson",
+        "price": 250,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41T0iBxY8FL._SX440_BO1,204,203,200_.jpg"
     },
     {
         "id": "9",
-        "name": "cracking the coding interview9",
-        "author": "Gayle Laakmann McDowell",
+        "name": "Structure and Interpretation of Computer Programs",
+        "author": "Gerald Jay Sussman and Hal Abelson",
         "price": 100,
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg"
+        "image": "https://images-na.ssl-images-amazon.com/images/I/4186AAibrkL._SX343_BO1,204,203,200_.jpg"
     },
     {
         "id": "10",
-        "name": "cracking the coding interview10",
-        "author": "Gayle Laakmann McDowell",
-        "price": 100,
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg"
+        "name": "The Mythical Man-Month",
+        "author": "Fred Brooks",
+        "price": 300,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51WIpM70FEL._SX334_BO1,204,203,200_.jpg"
     },
     {
         "id": "11",
-        "name": "cracking the coding interview11",
-        "author": "Gayle Laakmann McDowell",
-        "price": 100,
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg"
+        "name": "Programming Pearls",
+        "author": "Jon Bentley",
+        "price": 320,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71KsxtHA8qL.jpg"
     },
     {
         "id": "12",
-        "name": "cracking the coding interview12",
-        "author": "Gayle Laakmann McDowell",
-        "price": 100,
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg"
+        "name": "Peopleware: Productive Projects and Teams",
+        "author": "Timothy Lister and Tom DeMarco",
+        "price": 200,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51ppX3F3ScL._SX341_BO1,204,203,200_.jpg"
     }
 ]

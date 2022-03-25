@@ -6,7 +6,7 @@ const Cart = ({ name }) => {
 
     return (
         <div className='p-3'>
-            <p>{name}</p>
+            <p>Book Name: {name}</p>
         </div>
     );
 };

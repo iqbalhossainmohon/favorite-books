@@ -55,7 +55,7 @@ const Home = () => {
                         }
                     </div>
                 </div>
-                <div style={{ height: "500px" }} className='basis-1/3 bg-slate-800 text-white sticky top-0'>
+                <div style={{ height: "650px" }} className='basis-1/3 bg-slate-800 text-white sticky top-0'>
                     <h2 className='text-xl text-center mt-4'>Order Summary</h2>
                     {
                         cart.length === 0 ? "Empty Cart" : cart.map(item => <Cart key={item.id} name={item.name} />)
