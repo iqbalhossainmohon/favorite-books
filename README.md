@@ -1,4 +1,4 @@
 # Favorite Books
 
- [Live Site](https://favoriteb0oks.netlify.app/).
+ [Live Site](https://favoriteb0oks.netlify.app/)
 
